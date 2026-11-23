@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="750" viewBox="0 0 500 750" fill="none">
+  <rect width="500" height="750" fill="#121316"/>
+  <rect x="20" y="20" width="460" height="710" rx="16" stroke="#26282E" stroke-width="2" stroke-dasharray="8 8"/>
+  <circle cx="250" cy="340" r="54" fill="#1E2025" stroke="#F59E0B" stroke-width="2"/>
+  <path d="M240 320L270 340L240 360V320Z" fill="#F59E0B"/>
+  <text x="250" y="440" text-anchor="middle" fill="#E4E4E7" font-family="system-ui, sans-serif" font-size="20" font-weight="700">CineStream</text>
+  <text x="250" y="470" text-anchor="middle" fill="#71717A" font-family="system-ui, sans-serif" font-size="14">Artwork Unavailable</text>
+</svg>

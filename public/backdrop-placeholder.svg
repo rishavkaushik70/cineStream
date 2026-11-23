@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" fill="none">
+  <rect width="1280" height="720" fill="#0D0E11"/>
+  <circle cx="640" cy="320" r="60" fill="#1A1C23" stroke="#F59E0B" stroke-width="2"/>
+  <path d="M630 300L660 320L630 340V300Z" fill="#F59E0B"/>
+  <text x="640" y="420" text-anchor="middle" fill="#E4E4E7" font-family="system-ui, sans-serif" font-size="24" font-weight="700">CineStream Cinematic Experience</text>
+  <text x="640" y="455" text-anchor="middle" fill="#71717A" font-family="system-ui, sans-serif" font-size="16">Backdrop image temporarily unavailable</text>
+</svg>
